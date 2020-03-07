@@ -1,0 +1,212 @@
+<resources>
+    <string name="app_name">ΕΛΜΕΠΑ</string>
+    <string name="userName">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="mainName">ΕΛ.ΜΕ.ΠΑ</string>
+    <string name="since">Since 1983</string>
+    <string name="foodMenu">Menu</string>
+    <string name="emails">Emails</string>
+    <string name="emailsInfo">Emails Καθηγητών </string>
+    <string name="foodMenuInfo">Σημερινό-Αυριανό</string>
+    <string name="today">Today</string>
+    <string name="Tomorrow">Tomorrow</string>
+    <string name="Error">Error</string>
+    <string name="geuma">ΓΕΥΜΑ</string>
+    <string name="DEIPNO">ΔΕΙΠΝΟ</string>
+    <string name="deftera">ΔΕΥΤΕΡΑ</string>
+    <string name="triti">ΤΡΙΤΗ</string>
+    <string name="tetarti">ΤΕΤΑΡΤΗ</string>
+    <string name="pempti">ΠΕΜΠΤΗ</string>
+    <string name="paraskevi">ΠΑΡΑΣΚΕΥΗ</string>
+    <string name="savvato">ΣΑΒΒΑΤΟ</string>
+    <string name="kiriaki">ΚΥΡΙΑΚΗ</string>
+    <string name="prwto">Πρώτο:</string>
+    <string name="kirios1">Κυρίως 1:</string>
+    <string name="kirios2">Κυρίως 2:</string>
+    <string name="kirios3">Κυρίως 3:</string>
+    <string name="garnitoura">Γαρνιτούρα:</string>
+    <string name="gliko">Γλυκό:</string>
+    <string name="glikoItem">Γλυκό</string>
+
+
+    <!-- format: Proti_vdomada Deftera Mesimeri Prwto piato -->
+
+    <!-- DEFTERI EVDOMADA -->
+
+
+    <!-- DEFTERA PRWI -->
+    <string name="pdmp">Ομελέτα χωριάτικη</string>
+    <string name="pdmk1">Σουτζουκάκια Σμυρναίικα</string>
+    <string name="pdmk2">Λιγκουίνι με θαλασσινά</string>
+    <string name="pdmk3">Φασολάκια λαδερά με φρέσκια ντομάτα και πατάτες</string>
+    <string name="pdmg">Ρύζι με λαχανικά ή Τηγανιτές Πατάτες</string>
+    <!-- DEFTERA VRADI -->
+    <string name="pdvp">Τυρόπιτα</string>
+    <string name="pdvk1">Φασολάκια λαδερά</string>
+    <string name="pdvk2">Ψαρόσουπα</string>
+    <string name="pdvk3">Αρακάς λεμονάτος</string>
+    <string name="pdvg">Πατάτες τηγανιτές ή Ρυζότο λαχανικά</string>
+    <!-- TRITI PRWI -->
+    <string name="ptmp">Σούπα φακές</string>
+    <string name="ptmk1">Μπριζόλα κρασάτη</string>
+    <string name="ptmk2">Κοτοπουλο με λαχανικά τεριάκη</string>
+    <string name="ptmk3">Σουπιές γιαχνί με ντομάτα και μάραθο</string>
+    <string name="ptmg">Πατάτες πουρέ ή καρότο</string>
+    <!-- TRITI VRADI -->
+    <string name="ptvp">Πίτσα σπέσιαλ</string>
+    <string name="ptvk1">Γιουβαρλάκια</string>
+    <string name="ptvk2">Σπαγγέτι με σάλτσα λαχανικών</string>
+    <string name="ptvk3">Μελιτζάνες γιαχνί</string>
+    <string name="ptvg">Πατάτες φούρνου ή τυρί φέτα</string>
+    <!-- TETARTI PRWI -->
+    <string name="ptetmp">Παστίτσιο</string>
+    <string name="ptetmk1">Αρακάς Λαδερός</string>
+    <string name="ptetmk2">Φάβα παντρεμένη με καραμελωμένο κρεμμύδι </string>
+    <string name="ptetmk3">Λαχανικά τουρλού με φρέσκα μυροδικά και τυρί φέτα</string>
+    <string name="ptetmg">Τυρί φέτα ή πατάτες φούρνου με λαχανικά</string>
+    <!-- TETARTI VRADI -->
+    <string name="ptetvp">Λαχανόρυζο</string>
+    <string name="ptetvk1">Ντομάτες γεμιστές</string>
+    <string name="ptetvk2">Ρεβύθια λεμονάτα</string>
+    <string name="ptetvk3">Κοτόπουλο μπιφτέκι με λαχανικά</string>
+    <string name="ptetvg">Πατάτες φούρνου</string>
+    <!-- PEMPTI PRWI -->
+    <string name="ppmp">Μανιταρόπιτα</string>
+    <string name="ppmk1">Κοτόπουλο κοκκινιστό</string>
+    <string name="ppmk2">Σπαγγέτι μπολονέζ</string>
+    <string name="ppmk3">Μπιφτέκια φούρνου με λαχανικά ατμού</string>
+    <string name="ppmg">Πατάτες πουρέ ή κριθαράκι κοκκινιστό</string>
+    <!-- PEMPTI VRADI -->
+    <string name="ppvp">Λαχανόρυζο</string>
+    <string name="ppvk1">Ντομάτες γεμιστές</string>
+    <string name="ppvk2">Ρεβύθια λεμονάτα</string>
+    <string name="ppvk3">Κτόπουλο μπιφτέκι με λαχανικά</string>
+    <string name="ppvg">Πατάτες φούρνου ή τυρί φέτα</string>
+    <!-- PARASKEVI PRWI -->
+    <string name="pparmp">Πέννες με τυρί και κρέμα</string>
+    <string name="pparmk1">Ψάρι τηγανιτό ή φούρνου</string>
+    <string name="pparmk2">Φασολάδα με λαχανικό</string>
+    <string name="pparmk3">Ρεβύθια Σιφνείκα φόυρνου με φρέσκο λεμόνι και δεντρολίβανο</string>
+    <string name="pparmg">Πατάτες φούρνου ή ρύζι με μανιτάρια</string>
+    <!-- PARASKEVI VARDI -->
+    <string name="pparvp">Τραχανόσουπα</string>
+    <string name="pparvk1">Μπιφτέκι σχάρας</string>
+    <string name="pparvk2">Γιουβαρλάκια</string>
+    <string name="pparvk3">Φασολάκια μαυρομάτικα γιαχνί με καυκαλίθρες</string>
+    <string name="pparvg">Μπρόκολο σωτέ ή ρυζότο με αρακά</string>
+    <!-- SAVVATO PRWI -->
+    <string name="psmp">Ζαμπονοτυρόπιτα</string>
+    <string name="psmk1">Μοσχάρι κοκκινιστό</string>
+    <string name="psmk2">Κεφτεδάκια με σάτσα ούζου</string>
+    <string name="psmk3">Φάβα με χταπόδι,λιαστή ντομάτα και κάπαρι</string>
+    <string name="psmg">Πατάτες ατμού ή μπρόκολο</string>
+    <!-- SAVVATO VARDI -->
+    <string name="psvp">Ομελέτα φούρνου με λαχανικά</string>
+    <string name="psvk1">Χοιρινό μπρεζέ με σάλτσα μανιτάρια</string>
+    <string name="psvk2">Πέννες με σάλτσα γλυκόξινη</string>
+    <string name="psvk3">Φιλετάκια κοτόπουλο σχάρας</string>
+    <string name="psvg">Πατάτες πουρέ ή καρότο σωτέ</string>
+    <!-- KIRIAKI PRWI -->
+    <string name="pkmp">Πρασοτυρόπιτα</string>
+    <string name="pkmk1">Αρνί ψητό</string>
+    <string name="pkmk2">Κοτόπουλο φούρνου με μουστάρδα,θυμάρι και μέλι</string>
+    <string name="pkmk3">Σκιουφικτά μακαρόνια με λιαστή ντομάτα φέτα και ελιές</string>
+    <string name="pkmg">Ρυζότο με μανιτάρια ή ελιές</string>
+    <!-- KIRIAKI VRADI -->
+    <string name="pkvp">Κονσομέ με φιδέ</string>
+    <string name="pkvk1">Ρολό κιμά φούρνου</string>
+    <string name="pkvk2">Σπανακόρυζο</string>
+    <string name="pkvk3">Κολοκυθάκια ράγου με ανθότυρο και θυμάρι</string>
+    <string name="pkvg">Χυλόπιτες καλαμπόκι με αρακά</string>
+
+    <!-- PRWTI EVDOMADA -->
+
+
+    <!-- DEFTERA PRWI -->
+    <string name="ddmp">Πίτσα χωριάτικη</string>
+    <string name="ddmk1">Μακαρόνια με κιμά</string>
+    <string name="ddmk2">Φακές σούπα με μπέικον</string>
+    <string name="ddmk3">Χοιρινό με σέλινο</string>
+    <string name="ddmg">Τυρί φέτα ή τυρί τριμμένο</string>
+    <!-- DEFTERA VRADI -->
+    <string name="ddvp">Σπανακόπιτα</string>
+    <string name="ddvk1">Γίγαντες πλακί</string>
+    <string name="ddvk2">Λουκάνικα σπετσοφάι</string>
+    <string name="ddvk3">Φαρφάλες με λιαστή ντομάτα και ελίες</string>
+    <string name="ddvg">Τυρί φέτα ή ανάμεικτα λαχανικά</string>
+    <!-- TRITI PRWI -->
+    <string name="dtmp">Πέννες σάλτσα καρμπονάρα</string>
+    <string name="dtmk1">Κοτόπουλο ψητό με σάλτσα ψητού</string>
+    <string name="dtmk2">Τυρόπιτα</string>
+    <string name="dtmk3">Μπριάμ</string>
+    <string name="dtmg">Πατάτες τηγανιτές ή ρύζι με αρακά</string>
+    <!-- TRITI VRADI -->
+    <string name="dtvp">Ομελέτα με ζαμπόν τυρί πατάτες</string>
+    <string name="dtvk1">Σπανακόρυζο</string>
+    <string name="dtvk2">Σπαγγετι με σάλτσα λαχανικών</string>
+    <string name="dtvk3">Κολοκυθάκια ραγού με ανθότυρο και θυμάρι</string>
+    <string name="dtvg">Πατάτες τηγανιτές ή ρύζι με αρακά</string>
+    <!-- TETARTI PRWI -->
+    <string name="dtetmp">Παστίτσιο</string>
+    <string name="dtetmk1">Φασολάκια λαδερά</string>
+    <string name="dtetmk2">Σπάγγετι με σάλτσα γλυκόξινη</string>
+    <string name="dtetmk3">Φακές σούπα</string>
+    <string name="dtetmg">Πατάτες φούρνου ή τυρί φέτα</string>
+    <!-- TETARTI VRADI -->
+    <string name="dtetvp">Ζαμπονοτυρόπιτα</string>
+    <string name="dtetvk1">Ψάρι αλά σπετσιώτα</string>
+    <string name="dtetvk2">Φάβα παντρεμένη</string>
+    <string name="dtetvk3">Φιλέτο ψαριού σχάρας με λαδολέμονο</string>
+    <string name="dtetvg">Ρυζότο με ανάμεικτα λαχανικλα ή πατάατες ατμού</string>
+    <!-- PEMPTI PRWI -->
+    <string name="dpmp">Πίτσα ζαμπόν τυρί μπέικον μανιτάρια</string>
+    <string name="dpmk1">Χοιρινό μπεκρή μεζέ</string>
+    <string name="dpmk2">Κριθαρότο με θαλασσινά</string>
+    <string name="dpmk3">Φιλετάκια κοτόπουλο σχάρας</string>
+    <string name="dpmg">Ρυζότο με ανάμεικτα θαλασσινά ή πατάτες τηγανιτές</string>
+    <!-- PEMPTI VRADI -->
+    <string name="dpvp">Μανιταρόσουπα</string>
+    <string name="dpvk1">Μακαρόνια με σάλτσα ντομάτα</string>
+    <string name="dpvk2">Πρασόρυζο</string>
+    <string name="dpvk3">Σούπα φασόλια</string>
+    <string name="dpvg">Τυρί φέτα ή ανάμεικτα λαχανικά</string>
+    <!-- PARASKEVI PRWI -->
+    <string name="dparmp">Τυρόπιτα</string>
+    <string name="dparmk1">Ρεβύθια</string>
+    <string name="dparmk2">Μελιτζάνες Ιμάμ</string>
+    <string name="dparmk3">Αρακάς λεμονάτος</string>
+    <string name="dparmg">Τυρί φέτα ή πατάτες φούρνου</string>
+    <!-- PARASKEVI VRADI -->
+    <string name="dparvp">Πίτσα ζαμπόν τυρί μπέικον μανιτάρια</string>
+    <string name="dparvk1">Χοιρινή μπριζολα κρασάτη</string>
+    <string name="dparvk2">Φαρφάλες με σάλτσα πέστο</string>
+    <string name="dparvk3">Κοτόπουλο φιλέτο με πλυγούρι και λιαστή ντομάτα</string>
+    <string name="dparvg">Ρυζότο με λαχανικά ή καρότο βουτύρου</string>
+    <!-- SAVVATO PRWI -->
+    <string name="dsmp">Μουσακάς</string>
+    <string name="dsmk1">Ψάρι ποσέ με σάλτσα</string>
+    <string name="dsmk2">Φασολάδα με λουκάνικο</string>
+    <string name="dsmk3">Γιουβαρλάκια αυγολέμονο</string>
+    <string name="dsmg">Ανάμεικτα λαχανικά ή ρυζότο καλαμπόκι</string>
+    <!-- SAVVATO VRΑDI -->
+    <string name="dsvp">Πατατόσουπα</string>
+    <string name="dsvk1">Μπιφτέκια σχάρας</string>
+    <string name="dsvk2">Αρακάς λαδερός</string>
+    <string name="dsvk3">Φιλέτο γαλοπούλας με σάλτσα εσπεριδοειδών</string>
+    <string name="dsvg">Ρυζότο με καλαμπόκι ή μπρόκολο ατμού</string>
+    <!-- KIRIAKI PRWI -->
+    <string name="dkmp">Σπανακόπιτα</string>
+    <string name="dkmk1">Μοσχάρι κοκκινιστό</string>
+    <string name="dkmk2">Κοτόπουλο φιλέτο σχάρας</string>
+    <string name="dkmk3">Μπάμιες λαδερές</string>
+    <string name="dkmg">Αρακάς βουτύρου ή πατάτες φούρνου</string>
+    <!-- KIRIAKI VRADI -->
+    <string name="dkvp">Ταλιατέλες με λαχανικά</string>
+    <string name="dkvk1">Χοιρινό λεμονάτο</string>
+    <string name="dkvk2">Σπαγγέτι καρμπονάρα</string>
+    <string name="dkvk3">Σπανακόρυζο</string>
+    <string name="dkvg">Ρύζι κρεολέ ή κάροτα σωτέ</string>
+
+
+</resources>

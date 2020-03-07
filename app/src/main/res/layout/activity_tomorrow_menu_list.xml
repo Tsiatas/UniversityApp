@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context=".TomorrowMenuList">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/foodMenu"
+                android:textSize="50sp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:orientation="horizontal">
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="1dp"
+                    android:layout_weight="1"
+                    android:background="@color/lightGray" />
+
+                <TextView
+                    android:id="@+id/day"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/Error"
+                    android:textSize="16sp" />
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="1dp"
+                    android:layout_weight="1"
+                    android:background="@color/lightGray" />
+
+
+            </LinearLayout>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="40dp"
+                android:text="@string/geuma"
+                android:textSize="40sp" />
+
+            <LinearLayout
+                style="@style/layoutMenuContainer">
+
+                <TextView
+                    android:id="@+id/prwto"
+                    style="@style/FoodMenuText"
+                    android:text="@string/prwto" />
+
+                <TextView
+                    android:id="@+id/prwtoItem"
+                    style="@style/FoodMenuTextItem"
+                    android:text="@string/Error" />
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/layoutMenuContainer">
+
+                <TextView
+                    android:id="@+id/kiriosPrwto"
+                    style="@style/FoodMenuText"
+                    android:text="@string/kirios1" />
+
+                <TextView
+                    android:id="@+id/kiriosPrwtoItem"
+                    style="@style/FoodMenuTextItem"
+                    android:text="@string/Error" />
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/layoutMenuContainer">
+
+                <TextView
+                    android:id="@+id/kiriosDeftero"
+                    style="@style/FoodMenuText"
+                    android:text="@string/kirios2" />
+
+                <TextView
+                    android:id="@+id/kiriosDefteroItem"
+                    style="@style/FoodMenuTextItem"
+                    android:text="@string/Error" />
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/layoutMenuContainer">
+
+                <TextView
+                    android:id="@+id/kiriosTrito"
+                    style="@style/FoodMenuText"
+                    android:text="@string/kirios3" />
+
+                <TextView
+                    android:id="@+id/kiriosTritoItem"
+                    style="@style/FoodMenuTextItem"
+                    android:text="@string/Error" />
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/layoutMenuContainer">
+
+                <TextView
+                    android:id="@+id/granitoura"
+                    style="@style/FoodMenuText"
+                    android:text="@string/geuma" />
+
+                <TextView
+                    android:id="@+id/granitouraItem"
+                    style="@style/FoodMenuTextItem"
+                    android:text="@string/Error" />
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/layoutMenuContainer">
+
+                <TextView
+                    android:id="@+id/gliko"
+                    style="@style/FoodMenuText"
+                    android:text="@string/gliko" />
+
+                <TextView
+                    android:id="@+id/glikoItem"
+                    style="@style/FoodMenuTextItem"
+                    android:text="@string/glikoItem" />
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginTop="40dp"
+                android:text="@string/DEIPNO"
+                android:textSize="40sp" />
+
+            <LinearLayout
+                style="@style/layoutMenuContainer">
+
+                <TextView
+
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/prwto"
+                    android:textSize="30sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/prwtoItemDipno"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="10dp"
+                    android:layout_marginLeft="10dp"
+                    android:text="@string/Error"
+                    android:textSize="25sp"
+                    android:textStyle="italic" />
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/layoutMenuContainer">
+
+                <TextView
+                    android:id="@+id/kiriosPrwtoDipno"
+                    style="@style/FoodMenuText"
+                    android:text="@string/kirios1" />
+
+                <TextView
+                    android:id="@+id/kiriosPrwtoItemDipno"
+                    style="@style/FoodMenuTextItem"
+                    android:text="@string/Error" />
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/layoutMenuContainer">
+
+                <TextView
+                    android:id="@+id/kiriosDefteroDipno"
+                    style="@style/FoodMenuText"
+                    android:text="@string/kirios2" />
+
+                <TextView
+                    android:id="@+id/kiriosDefteroItemDipno"
+                    style="@style/FoodMenuTextItem"
+                    android:text="@string/Error" />
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/layoutMenuContainer">
+
+                <TextView
+                    style="@style/FoodMenuText"
+                    android:text="@string/kirios3" />
+
+                <TextView
+                    android:id="@+id/kiriosTritoItemDipno"
+                    style="@style/FoodMenuTextItem"
+                    android:text="@string/Error"
+
+                    />
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/layoutMenuContainer">
+
+                <TextView
+                    android:id="@+id/granitouraDipno"
+                    style="@style/FoodMenuText"
+                    android:text="@string/garnitoura" />
+
+                <TextView
+                    android:id="@+id/granitouraItemDipno"
+                    style="@style/FoodMenuTextItem"
+                    android:text="@string/Error" />
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/layoutMenuContainer">
+
+                <TextView
+                    style="@style/FoodMenuText"
+
+                    android:text="@string/gliko" />
+
+                <TextView
+                    style="@style/FoodMenuTextItem"
+
+                    android:text="@string/gliko" />
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.core.widget.NestedScrollView>
+</LinearLayout>
